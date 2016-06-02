@@ -1,4 +1,5 @@
-# vue 在 node 下的配置
+# vue 在 express(ejs) 下的 webpack 配置
+对其它环境具有参考意义
 
 ### 为什么有这个项目?
 vue + webpack + express(ejs)的配置相当繁琐，贡献出来，大家可以结合自己的实际情况自己改下
